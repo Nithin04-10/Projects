@@ -1,2 +1,2 @@
 # Projects
-I have compiled all my projects into one single folder
+I have compiled my academic project publications into one single folder for reference
