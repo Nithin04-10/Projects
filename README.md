@@ -1,2 +1,2 @@
 # Projects
-I have compiled my academic project publications into one single folder for reference
+This folder compiles all my academic research publications and conference works, representing key projects completed during my studies. It includes published papers, abstracts, and presentation materials covering topics such as composite materials, tribology, advanced manufacturing, and sustainability-driven materials design. Each work highlights my contribution to experimental analysis, simulation, and process optimization, reflecting a strong foundation in materials science and mechanical engineering research.
